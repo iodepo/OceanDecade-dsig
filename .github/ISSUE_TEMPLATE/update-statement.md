@@ -23,7 +23,8 @@ Be sure to add the number of the issue in any commit messages used to update the
 
 ## Which statement is this issue about?
 
-e.g. example.Md
+Title: exampleStatement.Md
+Link: https://github.com/iodepo/OceanDecade-dsig/blob/main/statements/exampleStatement.Md
 
 ## Who should know about this issue?
 
