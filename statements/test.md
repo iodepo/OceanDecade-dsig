@@ -1,6 +1,6 @@
 # Title
 
-Example Statement
+Statement
 
 ## Relevant Objectives
 
