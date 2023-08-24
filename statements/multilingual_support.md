@@ -1,6 +1,5 @@
 # Multilingual support
 
-
 ## Relevant Objectives
 
 Objective 1
