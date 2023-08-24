@@ -1,12 +1,13 @@
 # Title
 
-## Relevant Objectives
+## Strategic relevance
 
-Which Objectives from the [strategy document](https://unesdoc.unesco.org/ark:/48223/pf0000385542.locale=en) does this statement relate to?
+Which Objectives, Enablers, or other element of the [strategy document](https://unesdoc.unesco.org/ark:/48223/pf0000385542.locale=en) does this statement relate to?
 
-## Region(s) of relevance
+## Region(s) and/or Communities of relevance
 
-e.g. West Africa, Antarctic, Global
+**Regions:** e.g. West Africa, Antarctic, Global
+**Communities:** e.g. fishers, conservationists, recreational sailors
 
 ## Importance and Urgency
 
@@ -18,7 +19,7 @@ e.g. West Africa, Antarctic, Global
 
 ## Recommendation(s)
 
-What is recommended?
+What is recommended? Please provide concrete and concise recommendations, "We should do this..."
 
 ## Relation to existing capacities / initiatives
 
