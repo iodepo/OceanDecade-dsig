@@ -8,6 +8,13 @@ Which Objectives from the [strategy document](https://unesdoc.unesco.org/ark:/48
 
 e.g. West Africa, Antarctic, Global
 
+## Importance and Urgency
+
+Importance: [critical, very high, high, neither high nor low, low, very low]
+Urgency: [critical, very high, high, neither high nor low, low, very low]
+
+Timeframe for implementation: Where relevant, comment on what timeframe this recommendation should be acted upon, with a brief explanation on your rationale.
+
 ## Recommendation(s)
 
 What is recommended?
