@@ -19,6 +19,6 @@ Support to communities is done by training and workhops. Human input necessary.
 
 ## Resourcing required
 
-resources from training
+resources for training
 
 ## Caveats, concerns, and limitations 
