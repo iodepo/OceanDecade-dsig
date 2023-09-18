@@ -16,6 +16,8 @@ These statements will provide the raw material with which we will build the Impl
 
 The following assumes you're using the GitHub web interface. If you're working in a local directory with the git command-line interface or the GitHub Client, it's likely you don't need futher guidance. 
 
+The steps below are also captured in [this video](https://youtu.be/w-BxDufwA5Y)
+
 To create a new statement, a DSIG member whose GitHub account has been granted write privileges in this repo will: 
 
 1. Navigate to the statements directory: `OceanDecade-dsig/statements`
