@@ -26,10 +26,10 @@ We should assist in terms of providing visibility for regional ocean decision to
 ## Relation to existing capacities / initiatives
 
 The Ocean Infohub Project  : https://oceaninfohub.org/project-overview/
-ODINAFRICA  : http://www.odinafrica.org/en/
-AaNChoR  : https://allatlanticocean.org/
-BCC  : https://www.benguelacc.org/
-International Indian Ocean Expedition (IIOE-2)  : https://iioe-2.incois.gov.in/
+ODINAFRICA  : http://www.odinafrica.org/en/ ,
+AaNChoR  : https://allatlanticocean.org/ ,
+BCC  : https://www.benguelacc.org/ ,
+International Indian Ocean Expedition (IIOE-2)  : https://iioe-2.incois.gov.in/ ,
 
 
 ## Resourcing required
