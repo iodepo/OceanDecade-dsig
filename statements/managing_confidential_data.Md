@@ -18,7 +18,9 @@ Policy & Regulatory Frameworks Enabler
 
 ## Recommendation(s)
 
-Where data is confidential and cannot be publically released in a detailed state:
+Where data is confidential and cannot be publically released in a detailed state then the "Managing Confidential Data" guidance should be followed
+
+This doesn't exist yet but coudl include the following:
 1. Metadata should still be published
 2. If the confidentiality is time-sensitive then the use of embargo periods should be investigated i.e. it may be possible to release the data at a future date.
 3. Statistical practices such as aggregation or suppression should be investigated to see whether a form of the data that does not violate the relevant confidentiality rules can be released.  Guidance for these techniques is available at XXX
@@ -35,4 +37,6 @@ These should include estimates of training costs, personnel and their qualificat
 
 ## Caveats, concerns, and limitations 
 
-List any obstacles or concerns about the recommendations?
+- There can be many reasons for data to be confidential (e.g. commercial sensitivity, legal requirements) so it will not be possible to comment on individual cases just the general approaches.
+- It might not be possible to create a useful non-confidential version of a particualr data e.g. the process of sufficiently aggregating or supressing the data removes its utility.
+
