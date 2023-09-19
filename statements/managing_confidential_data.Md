@@ -20,7 +20,7 @@ Policy & Regulatory Frameworks Enabler
 
 Where data is confidential and cannot be publically released in a detailed state then the "Managing Confidential Data" guidance should be followed
 
-This doesn't exist yet but coudl include the following:
+This doesn't exist yet but could include the following:
 1. Metadata should still be published
 2. If the confidentiality is time-sensitive then the use of embargo periods should be investigated i.e. it may be possible to release the data at a future date.
 3. Statistical practices such as aggregation or suppression should be investigated to see whether a form of the data that does not violate the relevant confidentiality rules can be released.  Guidance for these techniques is available at XXX
