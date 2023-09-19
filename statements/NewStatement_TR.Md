@@ -4,7 +4,7 @@
 
 Objectives  : 1, 2, 4
 
-Enablers  :  1,3
+Enablers  :  1, 3
 
 ## Region(s) and/or Communities of relevance
 
