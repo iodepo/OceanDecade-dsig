@@ -1,17 +1,12 @@
-# Title
-
-Managing data confidentiality issues
+# Managing data confidentiality issues
 
 ## Strategic relevance
 
-Which Objectives, Enablers, or other element of the [strategy document](https://unesdoc.unesco.org/ark:/48223/pf0000385542.locale=en) does this statement relate to?
-
-Policy & Regulatory Frameworks
+Policy & Regulatory Frameworks Enabler
 
 ## Region(s) and/or Communities of relevance
 
 **Regions:** Global
-**Communities:** e.g. fishers, conservationists, recreational sailors
 
 ## Importance and Urgency
 
@@ -28,7 +23,6 @@ Where data is confidential and cannot be publically released in a detailed state
 2. If the confidentiality is time-sensitive then the use of embargo periods should be investigated i.e. it may be possible to release the data at a future date.
 3. Statistical practices such as aggregation or suppression should be investigated to see whether a form of the data that does not violate the relevant confidentiality rules can be released.  Guidance for these techniques is available at XXX
 
-What is recommended? Please provide concrete and concise recommendations, "We should do this..."
 
 ## Relation to existing capacities / initiatives
 
