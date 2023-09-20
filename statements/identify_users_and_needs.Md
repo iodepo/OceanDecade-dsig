@@ -1,4 +1,4 @@
-# Identify the main categroies of data users and their core needs
+# Identify the main categories of data users and their core needs
 
 ## Strategic relevance
 
@@ -33,6 +33,6 @@ These should include estimates of training costs, personnel and their qualificat
 
 ## Caveats, concerns, and limitations 
 
-People and society are complex so this coudl be a complex task.  
+People and society are complex so this could be a complex task.  
 People and their needs can change over time.
 Oceanagraphic data managers / physical scientists may not have the skills to satisfactorily fulfill this task.
