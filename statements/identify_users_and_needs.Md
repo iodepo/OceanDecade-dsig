@@ -7,7 +7,7 @@
 ## Region(s) and/or Communities of relevance
 
 **Regions:** Global
-**Communities:** e.g. fishers, conservationists, recreational sailors
+**Communities:** all
 
 ## Importance and Urgency
 
