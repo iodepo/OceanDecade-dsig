@@ -10,6 +10,8 @@ Objective 5
 
 the recommendation also relates to -> significant gaps in ocean data remains ... because the data  ... are currently held in hidden, inaccessible databases.
 
+also relates to -> there are resource and capacity gaps to collect, curate, manage, and share ocean data and information digitally, including a lack of data management trained personnel.
+
 ## Region(s) and/or Communities of relevance
 
 **Regions:** Global
