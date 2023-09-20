@@ -8,6 +8,8 @@ Which Objectives, Enablers, or other element of the [strategy document](https://
 Objective 5
 -> Reinforce resource mobilization, with adequate funding towards ocean data  and information management skills
 
+the recommendation also relates to -> significant gaps in ocean data remains ... because the data  ... are currently held in hidden, inaccessible databases.
+
 ## Region(s) and/or Communities of relevance
 
 **Regions:** Global
@@ -22,6 +24,8 @@ Objective 5
 **Timeframe for implementation:** 2024 - The pilot can start next year, so for example, the next calls that are out in 1/5 year or so may well include recommendations mentioned below
 
 ## Recommendation(s)
+
+Funding agencies publish calls for proposals saying that the consortium allocates budget for data management and makes data publicly open at the end of the project. This is no longer enough as a requirement.
 
 "We should engage with the country's major funding agency (it can be that those are even Decade partners) to pilot the following:
 in future calls for proposals, for ocean-related projects that will capture new data, in addition to thorough description data management, the consortium is obliged to:
