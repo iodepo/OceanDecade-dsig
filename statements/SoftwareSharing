@@ -1,0 +1,30 @@
+# Software Sharing for realtime data processing 
+
+## Relevant Objectives
+
+Objective 1
+
+## Region(s) of relevance
+
+Global
+
+## Recommendation(s)
+
+Lack of expertise in data processing, quality control and dissemination in standard formats, is a limitation for some of data centres.
+ - New data centre or existing data centres should be supported by standard data processing chain (software), such that it automatically process the data, do QC as per the standards and disseminate to GTS (WMO standards) 
+ - Help the new data centres to overcome the issues and quickly establishing data processing chain.
+ - Initiation of new observation system networks using existing software to help in quick setup.
+ 
+## Relation to existing capacities / initiatives
+
+- Synchronize the existing data centres protocols to new centres.
+
+## Resourcing required
+
+Software Tools to be shared.
+
+## Caveats, concerns, and limitations 
+
+ - Each observation system have its own standards.
+ - Regions may be considered while adopting the softwares.
+ - Expertise in Programming language / tools used in development of software. 
