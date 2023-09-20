@@ -1,17 +1,17 @@
-# Title
+# Data Centre Certification
 
 ## Strategic relevance
 
-Which Objectives, Enablers, or other element of the [strategy document](https://unesdoc.unesco.org/ark:/48223/pf0000385542.locale=en) does this statement relate to?
+3) Build trust in data and infromation shared across the ocean digital ecosystem
 
 ## Region(s) and/or Communities of relevance
 
-**Regions:** e.g. West Africa, Antarctic, Global
+**Regions:** Global
 **Communities:** e.g. fishers, conservationists, recreational sailors
 
 ## Importance and Urgency
 
-**Importance:** [critical, very high, high, neither high nor low, low, very low]
+**Importance:**  high
 
 **Urgency:** [critical, very high, high, neither high nor low, low, very low]
 
@@ -19,11 +19,11 @@ Which Objectives, Enablers, or other element of the [strategy document](https://
 
 ## Recommendation(s)
 
-What is recommended? Please provide concrete and concise recommendations, "We should do this..."
+Data Centres should achieve and maintain appropriate certifications/accreditations to ensure they are able to build and maintain trust in their data services.
 
 ## Relation to existing capacities / initiatives
 
-What existing activities in the regions noted above can be engaged to implement the recommendation?
+IODE national oceanagraphic data centre accreditation programme https://www.iode.org/index.php?option=com_content&view=article&id=61&Itemid=100057
 
 ## Resourcing required
 
