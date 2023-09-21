@@ -10,7 +10,7 @@ Global
 
 ## Importance and Urgency
 
-**Importance:** substantial
+**Importance:** high
 
 **Urgency:** high
 
