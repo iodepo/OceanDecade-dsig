@@ -1,4 +1,4 @@
-Propagation of data standards in Southern Africa
+Propagation of data standards across Southern Africa
 
 ## Strategic relevance
 
