@@ -17,11 +17,11 @@ Objective 1 2 3
 
 **Urgency:** high
 
-**Timeframe for implementation:** ?? (not sure what time frame shoudl be indicated, this is valid anytime)
+**Timeframe for implementation:** ?? (not sure what time frame should be indicated, this is valid anytime)
 
 ## Recommendation(s)
 
-A legal expert should be consulted. We may also contact Cretaive Commons for advice. https://creativecommons.org/
+A legal expert should be consulted. We may also contact Creative Commons for advice. https://creativecommons.org/
 
 ## Relation to existing capacities / initiatives
 
@@ -33,4 +33,4 @@ Legal experts, we may also contact Cretaive Commons for advice
 
 ## Caveats, concerns, and limitations 
 
-Assess what kind of issues will remain unsolved even if CC licenses woudl be applied
+Assess what kind of issues will remain unsolved even if CC licenses would be applied
