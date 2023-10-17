@@ -23,7 +23,7 @@ Urgency: critical
 
 ## Relation to existing capacities / initiatives
 
-It is very similar in the challenge in the enhance discoverability statement of getting metadata added with correct content by leveraging JSON-LD and schema.org and the conventions being built by the IODE's Ocean Data and Information System (ODIS) and Ocean InfoHub.
+It is very similar to the challenge in the enhance-discoverability.Md statement of getting metadata added with correct content by leveraging JSON-LD and schema.org and the conventions being built by the IODE's Ocean Data and Information System (ODIS) and Ocean InfoHub.
 
 ## Resourcing required
 
